@@ -88,7 +88,7 @@ let allRight = true;
 //TODO did they win or lose?
 currentGuess = "";
 currentRow++;
-
+//if(currentGuess=== words) 
  if(allRight) {
      //win
      alert("you win");
